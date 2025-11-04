@@ -1,7 +1,11 @@
 body{          /* type selectors */
     background-color: green; 
 }
-.h1{            /* class selectors */
+.h1{    
+    background-color:pink;        /* class selectors */
     color:white;
 }
-
+#main{           /* id selectors */
+    background-color:pink;
+    color:blue;
+}
